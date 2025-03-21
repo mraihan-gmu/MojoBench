@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## 🔷 **Accepted in NAACL Proceedings (2025)** 🔷
+  ## 🔷 **Accepted in NAACL Findings (2025)** 🔷
 
 </div>
 
