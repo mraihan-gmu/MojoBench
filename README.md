@@ -1,3 +1,8 @@
+<div align="center">
+
+  ## 🔷 **Accepted in NAACL Proceedings (2025)** 🔷
+
+</div>
 
 <div align="center">
 <h1>🔥 Mojo-Coder 🔥</h1>
